@@ -6,4 +6,4 @@ In the literature this problem is called a three-objective travelling salesman p
 
 To solve this multi-objective optimisation problem evolutionary algorithms are the state of the art methods. In this case, the NSGA-II by Deb (2002) is used which is implemented in the Platypus framework. In the end, the cheapest, the fastest, and the greenest routes are plotted on a world map.
 
-<img src="3obj_green2.png" width="800" />
+![Alt text](3obj_green2.png?raw=true "Title")
